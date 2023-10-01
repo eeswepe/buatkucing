@@ -1,0 +1,30 @@
+.jumbotron{
+    height: 100vh;
+    margin: 0;
+    padding: 20px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    background-color: #FF3CAC;
+    background-image: linear-gradient(225deg, #FF3CAC 0%, #784ba0 50%, #2B86C5 100%);
+    line-height: 10px;
+}
+
+.text{
+    position: absolute;
+    top: 230px;
+}
+
+h2{
+    font-size:50px;
+}
+
+h1{
+    font-size: 80px;
+}
+
+.scroll{
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+}
